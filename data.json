@@ -4618,5 +4618,93 @@
     "explanation": "در این جمله، پس از عبارت «یک»، اسم لازم است؛ بنابراین «استثنا» درست است. «استثنائاً» قید است و نمی‌تواند نقش اسم بپذیرد.",
     "text_domain": "technical",
     "language": "Persian"
+  },
+  {
+    "incorrect_text": "شهر طوس به عنوان زادگاه شاعر بزرگ فردوسی شناخته می‌شود.",
+    "correct_text": "شهر توس به عنوان زادگاه شاعر بزرگ فردوسی شناخته می‌شود.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "غلط املایی متداول",
+    "incorrect_phrase": "طوس",
+    "correct_phrase": "توس",
+    "explanation": "نام این شهر تاریخی «توس» با «ت» ساده است. نوشتن آن با «ط» غلط است. تلفظ صحیح آن «توس» است نه «طوس».",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "رنگ تویس یکی از رنگ‌های محبوب در نقاشی‌های مینیاتور ایرانی است.",
+    "correct_text": "رنگ طوسی یکی از رنگ‌های محبوب در نقاشی‌های مینیاتور ایرانی است.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "غلط املایی متداول",
+    "incorrect_phrase": "تویس",
+    "correct_phrase": "طوسی",
+    "explanation": "رنگ «طوسی» (خاکستری) با «ط» نوشته می‌شود. نوشتن آن به صورت «تویس» غلط است.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "فارغ‌تحصیلان این رشته در بازار کار تقاضای زیادی دارند.",
+    "correct_text": "فارغ‌التحصیلان این رشته در بازار کار تقاضای زیادی دارند.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "غلط املایی متداول",
+    "incorrect_phrase": "فارغ‌تحصیلان",
+    "correct_phrase": "فارغ‌التحصیلان",
+    "explanation": "کلمهٔ صحیح «فارغ‌التحصیل» است با «ال» (فارغ + التحصیل). حذف «ال» غلط رایجی است.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "نتیجهٔ این آزمایش قوریاقه بود و نیاز به تکرار داشت.",
+    "correct_text": "نتیجهٔ این آزمایش قریب‌الوقوع بود و نیاز به تکرار داشت.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "کاربرد واژهٔ هم‌آوا یا متشابه با معنای نادرست",
+    "incorrect_phrase": "قوریاقه",
+    "correct_phrase": "قریب‌الوقوع",
+    "explanation": "«قریب‌الوقوع» به معنای نزدیک به وقوع است. «قوریاقه» یک غلط رایج و بی‌معنا است که گاهی به جای آن نوشته می‌شود.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "پژوهشگر باید در بهچوبه‌ی خود دقت لازم را داشته باشد.",
+    "correct_text": "پژوهشگر باید در بچیوه‌ی خود دقت لازم را داشته باشد.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "غلط املایی متداول",
+    "incorrect_phrase": "بهچوبه",
+    "correct_phrase": "بچیوه",
+    "explanation": "شکل صحیح این کلمه «بچیوه» است. نوشتن آن به صورت «بهچوبه» غلط است.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "مسأله اصلی این پژوهش کمبود منابع مالی است.",
+    "correct_text": "مسئله اصلی این پژوهش کمبود منابع مالی است.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "غلط املایی متداول",
+    "incorrect_phrase": "مسأله",
+    "correct_phrase": "مسئله",
+    "explanation": "بسته به مرجع املایی، شکل صحیح «مسأله» یا «سئله» است. نوشتن «مسأله» با همزهٔ بالا غلط است.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "داده‌ها به صورت دوزنقه در نمودار نمایش داده شدند.",
+    "correct_text": "داده‌ها به صورت دوزنقه در نمودار نمایش داده شدند.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "غلط املایی متداول",
+    "incorrect_phrase": "زوزنقه",
+    "correct_phrase": "دوزنقه",
+    "explanation": "کلمهٔ صحیح «دوزنقه» با «د» است. نوشتن آن با «ز» غلط است.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "قcssون‌گذار در حوزهٔ فناوری اطلاعات نیازمند بازنگری است.",
+    "correct_text": "قانون‌گذار در حوزهٔ فناوری اطلاعات نیازمند بازنگری است.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "غلط املایی متداول",
+    "incorrect_phrase": "قcssون‌گذار",
+    "correct_phrase": "قانون‌گذار",
+    "explanation": "کلمهٔ صحیح «قانون‌گذار» است. نوشتن آن به صورت «قcssون» غلط است.",
+    "text_domain": "academic",
+    "language": "Persian"
   }
 ]
