@@ -2154,5 +2154,71 @@
     "explanation": "«به‌ویژه» ساخت «به + صفت» است که در رسم‌الخط معیار به‌صورت قید ساده یا «به + مصدر» به کار می‌رود؛ کاربرد سرهم و بدون نیاز آن در این جا (به‌جای «ویژه» یا «به‌طور ویژه») قید نامأنوس با «به + صفت» محسوب می‌شود (مانند «به‌کندی» ← «کند»).",
     "text_domain": "academic",
     "language": "Persian"
+  },
+  {
+    "incorrect_text": "پس از فراغ از تحصیل، راهی سفر شد.",
+    "correct_text": "پس از فراغت از تحصیل، راهی سفر شد.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "کاربرد واژهٔ هم‌آوا یا متشابه با معنای نادرست",
+    "incorrect_phrase": "فراغ",
+    "correct_phrase": "فراغت",
+    "explanation": "«فراغ» به معنای جدایی و دوری است، اما «فراغت» به معنای آسودگی و رهایی از کار به کار می‌رود. در این جمله منظور رهایی از تحصیل است.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "این مقاله بر اساس معیوره‌های علمی تنظیم شده است.",
+    "correct_text": "این مقاله بر اساس معیارهای علمی تنظیم شده است.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "غلط املایی متداول",
+    "incorrect_phrase": "معیوره‌های",
+    "correct_phrase": "معیارهای",
+    "explanation": "نوشتن «معیوره» به جای «معیار» غلط املایی رایجی است. واژه صحیح «معیار» (واحد سنجش) می‌باشد.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "دانشجویان باید از تحلیل مقالات بهره‌مند شوند.",
+    "correct_text": "دانشجویان باید از تحلیل مقالات بهره‌مند شوند.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "مغایرت با رسم‌الخط معیار",
+    "incorrect_phrase": "تحلیل",
+    "correct_phrase": "تحلیل",
+    "explanation": "در رسم‌الخط معیار، «تحلیل» با «ی» نازک نوشته می‌شود نه «ی» کشیده. نوشتن آن با یای مجهول غلط است.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": " experimentation به معنای عمل کردن است.",
+    "correct_text": "«تجربه» یا «آزمون» به معنای experimentation است.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "کاربرد واژهٔ هم‌آوا یا متشابه با معنای نادرست",
+    "incorrect_phrase": "عمل",
+    "correct_phrase": "تجربه / آزمون",
+    "explanation": "«عمل» به معنای کار و انجام دادن است، اما «تجربه» یا «آزمون» معادل صحیح experimentation در متون علمی می‌باشد.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "نویسنده از منابع معتبر اساس بهره گرفته است.",
+    "correct_text": "نویسنده از منابع معتبر اساسی بهره گرفته است.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "غلط املایی متداول",
+    "incorrect_phrase": "اساس",
+    "correct_phrase": "اساسی",
+    "explanation": "در این جمله صفت مورد نیاز است و باید «اساسی» (به معنای بنیادی) نوشته شود، نه «اساس» (به معنای پایه و بنیاد).",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "شاگردان در امتحان نهایی سوالات را تحلیل کردند.",
+    "correct_text": "شاگردان در امتحان نهایی سوالات را تحلیل کردند.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "مغایرت با رسم‌الخط معیار",
+    "incorrect_phrase": "تحلل",
+    "correct_phrase": "تحلیل",
+    "explanation": "طبق رسم‌الخط فرهنگستان، «تحلیل» با «ی» نازک نوشته می‌شود. نوشتن «تحلل» با لام کشیده یا «تحلیل» با یای مجهول مغایر با معیار است.",
+    "text_domain": "academic",
+    "language": "Persian"
   }
 ]
