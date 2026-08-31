@@ -4464,5 +4464,137 @@
     "explanation": "حرف ربط «حتی» دارای الف مقصوره در خط عربی و فارسی است و طبق دستور خط فرهنگستان به صورت «حتی» نوشته می‌شود؛ نگارش آن با الف کشیده به شکل «حتا» مغایر با رسم‌الخط معیار است.",
     "text_domain": "academic",
     "language": "Persian"
+  },
+  {
+    "incorrect_text": "تأیید نهایی این طرح پژوهشی بر عهدهٔ کمیتهٔ علمی است.",
+    "correct_text": "تأیید نهایی این طرح پژوهشی بر عهدهٔ کمیتهٔ علمی است.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "غلط املایی متداول",
+    "incorrect_phrase": "تائید",
+    "correct_phrase": "تأیید",
+    "explanation": "در کلمهٔ «تأیید»، همزه باید زیر «أ» بیاید، نه بالای «ا». نوشتن «تائید» غلط رایجی است که بسیاری مرتکب می‌شوند.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "اندازهٔ اطاق کار پژوهشگر باید استاندارد باشد.",
+    "correct_text": "اندازهٔ اتاق کار پژوهشگر باید استاندارد باشد.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "غلط املایی متداول",
+    "incorrect_phrase": "اطاق",
+    "correct_phrase": "اتاق",
+    "explanation": "کلمهٔ «اتاق» با «ت» ساده نوشته می‌شود، نه «ط». نوشتن «اطاق» غلط رایجی است که به دلیل تلفظ اشتباه رخ می‌دهد.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "طوفان اخیر خسارات زیادی به زیرساخت‌های شهری وارد کرد.",
+    "correct_text": "توفان اخیر خسارات زیادی به زیرساخت‌های شهری وارد کرد.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "غلط املایی متداول",
+    "incorrect_phrase": "طوفان",
+    "correct_phrase": "توفان",
+    "explanation": "کلمهٔ صحیح «توفان» (با «ت») است. بسیاری آن را با «ط» می‌نویسند که غلط است. البته «طوفان نوح» با «ط» صحیح است، اما «توفان» طبیعی با «ت» نوشته می‌شود.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "گفتکو میان پژوهشگران در خصوص یافته‌های جدید بسیار مفید بود.",
+    "correct_text": "گفت‌وگو میان پژوهشگران در خصوص یافته‌های جدید بسیار مفید بود.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "مغایرت با رسم‌الخط معیار",
+    "incorrect_phrase": "گفتکو",
+    "correct_phrase": "گفت‌وگو",
+    "explanation": "شکل صحیح نوشتن این کلمه «گفت‌وگو» است با «و» جداگانه. نوشتن «گفتکو» غلط است.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "спершу سوال اصلی پژوهش این بود که آیا رابطه‌ای بین متغیرها وجود دارد؟",
+    "correct_text": "سؤال اصلی پژوهش این بود که آیا رابطه‌ای بین متغیرها وجود دارد؟",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "غلط املایی متداول",
+    "incorrect_phrase": "سوال",
+    "correct_phrase": "سؤال",
+    "explanation": "کلمهٔ «سؤال» باید با همزه نوشته شود. نوشتن «سوال» بدون همزه غلط رایجی است.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "بحث رودررو میان اساتید باعث شفاف‌تر شدن مسائل شد.",
+    "correct_text": "بحث رودررو میان اساتید باعث شفاف‌تر شدن مسائل شد.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "مغایرت با رسم‌الخط معیار",
+    "incorrect_phrase": "رو به رو",
+    "correct_phrase": "رودررو",
+    "explanation": "شکل صحیح نوشتن «رودررو» یک کلمهٔ واحد است، نه «رو به رو» جداگانه.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "ناهار نیمروز در دانشگاه فرصتی برای تبادل نظر دانشجویان فراهم می‌کند.",
+    "correct_text": "ناهار نیمروز در دانشگاه فرصتی برای تبادل نظر دانشجویان فراهم می‌کند.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "غلط املایی متداول",
+    "incorrect_phrase": "نهار",
+    "correct_phrase": "ناهار",
+    "explanation": "کلمهٔ صحیح «ناهار» است. بسیاری آن را «نهار» می‌نویسند که غلط است.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "ذغال سنگ یکی از منابع مهم انرژی در صنعت محسوب می‌شود.",
+    "correct_text": "زغال سنگ یکی از منابع مهم انرژی در صنعت محسوب می‌شود.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "غلط املایی متداول",
+    "incorrect_phrase": "ذغال",
+    "correct_phrase": "زغال",
+    "explanation": "کلمهٔ صحیح «زغال» با «ز» است. نوشتن «ذغال» با «ذ» غلط است و به دلیل تلفظ اشتباه رخ می‌دهد.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "حتا در بدترین شرایط نیز نباید از تلاش دست برداشت.",
+    "correct_text": "حتی در بدترین شرایط نیز نباید از تلاش دست برداشت.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "مغایرت با رسم‌الخط معیار",
+    "incorrect_phrase": "حتا",
+    "correct_phrase": "حتی",
+    "explanation": "شکل صحیح این واژه «حتی» است. نوشتن «حتا» غلط است اما متأسفانه رواج زیادی پیدا کرده است.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "سوغات علمی این کنفرانس شامل مقالات متعددی بود.",
+    "correct_text": "سوغات علمی این کنفرانس شامل مقالات متعددی بود.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "غلط املایی متداول",
+    "incorrect_phrase": "سوقات",
+    "correct_phrase": "سوغات",
+    "explanation": "کلمهٔ صحیح «سوغات» با «غ» است. نوشتن «سوقات» با «ق» غلط است.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "پژوهشگر باید در پاینند کار خود دقت کافی داشته باشد.",
+    "correct_text": "پژوهشگر باید در پاییند کار خود دقت کافی داشته باشد.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "غلط املایی متداول",
+    "incorrect_phrase": "پاینند",
+    "correct_phrase": "پاییند",
+    "explanation": "کلمهٔ صحیح «پاییند» با «ی» مضاعف است. حذف یکی از «ی»ها غلط است.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "طپانچه‌ای که در این آزمایش استفاده شد، نمونهٔ اولیه بود.",
+    "correct_text": "تپانچه‌ای که در این آزمایش استفاده شد، نمونهٔ اولیه بود.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "غلط املایی متداول",
+    "incorrect_phrase": "طپانچه",
+    "correct_phrase": "تپانچه",
+    "explanation": "کلمهٔ صحیح «تپانچه» با «ت» است. نوشتن آن با «ط» غلط است.",
+    "text_domain": "academic",
+    "language": "Persian"
   }
 ]
