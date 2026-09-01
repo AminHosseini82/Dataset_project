@@ -6930,17 +6930,6 @@
     "language": "Persian"
   },
   {
-    "incorrect_text": "آن دو سرپسر صحبت کردند.",
-    "correct_text": "آن دو سر به‌سر صحبت کردند.",
-    "error_category": "اشکالات املایی و واژگانی",
-    "error_subcategory": "غلط املایی متداول",
-    "incorrect_phrase": "سرپسر",
-    "correct_phrase": "سر به‌سر",
-    "explanation": "عبارت «سر به‌سر» سه کلمه است. صورت صحیح «سر به‌سر» است.",
-    "text_domain": "academic",
-    "language": "Persian"
-  },
-  {
     "incorrect_text": "سیستم خود بخود خاموش شد.",
     "correct_text": "سیستم خودبه‌خود خاموش شد.",
     "error_category": "اشکالات املایی و واژگانی",
