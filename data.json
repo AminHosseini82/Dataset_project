@@ -6754,17 +6754,6 @@
     "language": "Persian"
   },
   {
-    "incorrect_text": "تنبانی در این پروژه موجب خسارت شد.",
-    "correct_text": "تبانی در این پروژه موجب خسارت شد.",
-    "error_category": "اشکالات املایی و واژگانی",
-    "error_subcategory": "غلط املایی متداول",
-    "incorrect_phrase": "تنبانی",
-    "correct_phrase": "تبانی",
-    "explanation": "املای صحیح این واژه «تبانی» با حرف «ت» در ابتدا است.",
-    "text_domain": "academic",
-    "language": "Persian"
-  },
-  {
     "incorrect_text": "پرداخت عیدی به کارکنان در نظر گرفته شد.",
     "correct_text": "پرداخت عیدیه به کارکنان در نظر گرفته شد.",
     "error_category": "اشکالات املایی و واژگانی",
