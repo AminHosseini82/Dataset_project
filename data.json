@@ -6908,17 +6908,6 @@
     "language": "Persian"
   },
   {
-    "incorrect_text": "پس از زلزله، ساختمان‌ها نیافتد.",
-    "correct_text": "پس از زلزله، ساختمان‌ها نیفتادند.",
-    "error_category": "اشکالات املایی و واژگانی",
-    "error_subcategory": "مغایرت با رسم‌الخط معیار",
-    "incorrect_phrase": "نیافتد",
-    "correct_phrase": "نیفتادند",
-    "explanation": "گذشتهٔ سادهٔ فعل «افتادن»، «نیفتاد» است، نه «نیافتد». «نیافتد» آیندهٔ فعل «یافتن» است.",
-    "text_domain": "academic",
-    "language": "Persian"
-  },
-  {
     "incorrect_text": "او همواره حقیقت را از ذهن مردم میافکند.",
     "correct_text": "او همواره حقیقت را از ذهن مردم میفکند.",
     "error_category": "اشکالات املایی و واژگانی",
