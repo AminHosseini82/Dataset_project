@@ -7093,16 +7093,5 @@
     "explanation": "به جای «بیگمان»، «بی‌گمان» با «ی» و «گمان» نوشته می‌شود.",
     "text_domain": "academic",
     "language": "Persian"
-  },
-  {
-    "incorrect_text": "بیخردی در رفتار با دانشجویان جایز نیست.",
-    "correct_text": "بی‌خردی در رفتار با دانشجویان جایز نیست.",
-    "error_category": "اشکالات املایی و واژگانی",
-    "error_subcategory": "غلط املایی متداول",
-    "incorrect_phrase": "بیخردی",
-    "correct_phrase": "بی‌خردی",
-    "explanation": "به جای «بیخردی»، «بی‌خردی» با «ی» و «خردی» نوشته می‌شود.",
-    "text_domain": "academic",
-    "language": "Persian"
   }
 ]
