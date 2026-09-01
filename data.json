@@ -6270,17 +6270,6 @@
     "language": "Persian"
   },
   {
-    "incorrect_text": "دو گروه آزمایش و کنترل سربسر با یکدیگر مقایسه شدند.",
-    "correct_text": "دو گروه آزمایش و کنترل سر به سر با یکدیگر مقایسه شدند.",
-    "error_category": "اشکالات املایی و واژگانی",
-    "error_subcategory": "مغایرت با رسم‌الخط معیار",
-    "incorrect_phrase": "سربسر",
-    "correct_phrase": "سر به سر",
-    "explanation": "ترکیب «سر به سر» به‌صورت سه واژه نوشته می‌شود.",
-    "text_domain": "academic",
-    "language": "Persian"
-  },
-  {
     "incorrect_text": "سامانه خود بخود داده‌های تکراری را شناسایی می‌کند.",
     "correct_text": "سامانه خودبه‌خود داده‌های تکراری را شناسایی می‌کند.",
     "error_category": "اشکالات املایی و واژگانی",
