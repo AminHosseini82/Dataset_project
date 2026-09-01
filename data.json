@@ -6905,17 +6905,6 @@
     "language": "Persian"
   },
   {
-    "incorrect_text": "امتتیاز این پژوهش در ارزیابی بالا بود.",
-    "correct_text": "امتیاز این پژوهش در ارزیابی بالا بود.",
-    "error_category": "اشکالات املایی و واژگانی",
-    "error_subcategory": "غلط املایی متداول",
-    "incorrect_phrase": "امتتیاز",
-    "correct_phrase": "امتیاز",
-    "explanation": "املای درست این واژه «امتیاز» و فاقد حرف «ت» اضافی است.",
-    "text_domain": "academic",
-    "language": "Persian"
-  },
-  {
     "incorrect_text": "ادغام این دو سیستم غیر ممکن است.",
     "correct_text": "ادغام این دو سیستم غیرممکن است.",
     "error_category": "اشکالات املایی و واژگانی",
