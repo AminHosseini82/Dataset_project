@@ -6753,25 +6753,6 @@
     "text_domain": "academic",
     "language": "Persian"
   },
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
   {
     "incorrect_text": "بر عکس انتظارات، این روش ناکارآمد بود.",
     "correct_text": "برعکس انتظارات، این روش ناکارآمد بود.",
@@ -6926,5 +6907,268 @@
     "text_domain": "academic",
     "language": "Persian"
   },
-  { "incorrect_text": "پس از زلزله، ساختمان‌ها نیافتد.", "correct_text": "پس از زلزله، ساختمان‌ها نیفتادند.", "error_category": "اشکالات املایی و واژگانی", "error_subcategory": "مغایرت با رسم‌الخط معیار", "incorrect_phrase": "نیافتد", "correct_phrase": "نیفتادند", "explanation": "گذشتهٔ سادهٔ فعل «افتادن»، «نیفتاد» است، نه «نیافتد». «نیافتد» آیندهٔ فعل «یافتن» است.", "text_domain": "academic", "language": "Persian" }, { "incorrect_text": "او همواره حقیقت را از ذهن مردم میافکند.", "correct_text": "او همواره حقیقت را از ذهن مردم میفکند.", "error_category": "اشکالات املایی و واژگانی", "error_subcategory": "غلط املایی متداول", "incorrect_phrase": "میافکند", "correct_phrase": "میفکند", "explanation": "در صورت مجزای فعل (می‌فکند)، حرف «ی» اضافه است. صورت صحیح «می‌فکند» است.", "text_domain": "academic", "language": "Persian" }, { "incorrect_text": "با壁طلagh برخی از مشکلات حل نمی‌شود.", "correct_text": "با壁طلagh برخی از مشکلات حل نمی‌شود.", "error_category": "اشکالات املایی و واژگانی", "error_subcategory": "غلط املایی متداول", "incorrect_phrase": "با壁طلagh", "correct_phrase": "به壁طلagh", "explanation": "حرف اضافهٔ مکرر نادرست است. صورت صحیح «به壁طلagh» است.", "text_domain": "academic", "language": "Persian" }, { "incorrect_text": "دانشجویان جابجا شدند.", "correct_text": "دانشجویان جابه‌جا شدند.", "error_category": "اشکالات املایی و واژگانی", "error_subcategory": "غلط املایی متداول", "incorrect_phrase": "جابجا", "correct_phrase": "جابه‌جا", "explanation": "کسرهٔ «به» نباید حذف شود. صورت صحیح «جابه‌جا» است.", "text_domain": "academic", "language": "Persian" }, { "incorrect_text": "دو کشور روبروی یکدیگر قرار گرفتند.", "correct_text": "دو کشور رو به‌روی یکدیگر قرار گرفتند.", "error_category": "اشکالات املایی و واژگانی", "error_subcategory": "غلط املایی متداول", "incorrect_phrase": "روبروی", "correct_phrase": "رو به‌روی", "explanation": "ពួក「رو به‌رو» دو کلمهٔ جداگانه است. صورت صحیح «رو به‌روی» است.", "text_domain": "academic", "language": "Persian" }, { "incorrect_text": "آن دو سرپسر صحبت کردند.", "correct_text": "آن دو سر به‌سر صحبت کردند.", "error_category": "اشکالات املایی و واژگانی", "error_subcategory": "غلط املایی متداول", "incorrect_phrase": "سرپسر", "correct_phrase": "سر به‌سر", "explanation": "عبارت «سر به‌سر» سه کلمه است. صورت صحیح «سر به‌سر» است.", "text_domain": "academic", "language": "Persian" }, { "incorrect_text": "سیستم خود بخود خاموش شد.", "correct_text": "سیستم خودبه‌خود خاموش شد.", "error_category": "اشکالات املایی و واژگانی", "error_subcategory": "غلط املایی متداول", "incorrect_phrase": "خود بخود", "correct_phrase": "خودبه‌خود", "explanation": "کسرهٔ «به» نباید حذف شود. صورت صحیح «خودبه‌خود» است.", "text_domain": "academic", "language": "Persian" }, { "incorrect_text": "خانه‌ها بهتنهایی ساخته نشدند.", "correct_text": "خانه‌ها به‌تن‌هایی ساخته نشدند.", "error_category": "اشکالات املایی و واژگانی", "error_subcategory": "غلط املایی متداول", "incorrect_phrase": "بتنهايي", "correct_phrase": "به‌تن‌هایی", "explanation": "به جای «بتنهايي»، «به‌تن‌هایی» با کسرهٔ «به» نوشته می‌شود.", "text_domain": "academic", "language": "Persian" }, { "incorrect_text": "بویژه در زمینهٔ علوم انسانی، اهمیت زیادی دارد.", "correct_text": "به‌ویژه در زمینهٔ علوم انسانی، اهمیت زیادی دارد.", "error_category": "اشکالات املایی و واژگانی", "error_subcategory": "غلط املایی متداول", "incorrect_phrase": "بویژه", "correct_phrase": "به‌ویژه", "explanation": "به جای «بویژه»، «به‌ویژه» با کسرهٔ «به» نوشته می‌شود.", "text_domain": "academic", "language": "Persian" }, { "incorrect_text": "بخصوص در مقالات بین‌رشته‌ای مطرح می‌شود.", "correct_text": "به‌خصوص در مقالات بین‌رشته‌ای مطرح می‌شود.", "error_category": "اشکالات املایی و واژگانی", "error_subcategory": "غلط املایی متداول", "incorrect_phrase": "بخصوص", "correct_phrase": "به‌خصوص", "explanation": "به جای «بخصوص»، «به‌خصوص» با کسرهٔ «به» نوشته می‌شود.", "text_domain": "academic", "language": "Persian" }, { "incorrect_text": "بدلیل فقدان اطلاعات کافی، نتیجه‌گیری دشوار است.", "correct_text": "به‌دلیل فقدان اطلاعات کافی، نتیجه‌گیری دشوار است.", "error_category": "اشکالات املایی و واژگانی", "error_subcategory": "غلط املایی متداول", "incorrect_phrase": "بدلیل", "correct_phrase": "به‌دلیل", "explanation": "به جای «بدلیل»، «به‌دلیل» با کسرهٔ «به» نوشته می‌شود.", "text_domain": "academic", "language": "Persian" }, { "incorrect_text": "بعلت تغییرات آب‌وهوایی، محصولات کشاورزی آسیب دیدند.", "correct_text": "به‌علت تغییرات آب‌وهوایی، محصولات کشاورزی آسیب دیدند.", "error_category": "اشکالات املایی و واژگانی", "error_subcategory": "غلط املایی متداول", "incorrect_phrase": "بعلت", "correct_phrase": "به‌علت", "explanation": "به جای «بعلت»، «به‌علت» با کسرهٔ «به» نوشته می‌شود.", "text_domain": "academic", "language": "Persian" }, { "incorrect_text": "بصورت رسمی اعلام شد که پروژه آغاز می‌شود.", "correct_text": "به‌صورت رسمی اعلام شد که پروژه آغاز می‌شود.", "error_category": "اشکالات املایی و واژگانی", "error_subcategory": "غلط املایی متداول", "incorrect_phrase": "بصورت", "correct_phrase": "به‌صورت", "explanation": "به جای «بصورت»، «به‌صورت» با کسرهٔ «به» نوشته می‌شود.", "text_domain": "academic", "language": "Persian" }, { "incorrect_text": "این نظریه بوچود یک انقلاب فکری محسوب می‌شود.", "correct_text": "این نظریه به‌وجود یک انقلاب فکری محسوب می‌شود.", "error_category": "اشکالات املایی و واژگانی", "error_subcategory": "غلط املایی متداول", "incorrect_phrase": "بوچود", "correct_phrase": "به‌وجود", "explanation": "به جای «بوچود»، «به‌وجود» با کسرهٔ «به» و «و» نوشته می‌شود.", "text_domain": "academic", "language": "Persian" }, { "incorrect_text": "بسرعت فرآیند تحقیق را انجام دادند.", "correct_text": "به‌سرعت فرآیند تحقیق را انجام دادند.", "error_category": "اشکالات املایی و واژگانی", "error_subcategory": "غلط املایی متداول", "incorrect_phrase": "بسرعت", "correct_phrase": "به‌سرعت", "explanation": "به جای «بسرعت»، «به‌سرعت» با کسرهٔ «به» نوشته می‌شود.", "text_domain": "academic", "language": "Persian" }, { "incorrect_text": "بطور کلی، یافته‌ها حاکی از پیشرفت است.", "correct_text": "به‌طور کلی، یافته‌ها حاکی از پیشرفت است.", "error_category": "اشکالات املایی و واژگانی", "error_subcategory": "غلط املایی متداول", "incorrect_phrase": "بطور", "correct_phrase": "به‌طور", "explanation": "به جای «بطور»، «به‌طور» با کسرهٔ «به» نوشته می‌شود.", "text_domain": "academic", "language": "Persian" }, { "incorrect_text": "بخاطر محدودیت‌های مالی، پروژه به تعویق افتاد.", "correct_text": "به‌خاطر محدودیت‌های مالی، پروژه به تعویق افتاد.", "error_category": "اشکالات املایی و واژگانی", "error_subcategory": "غلط املایی متداول", "incorrect_phrase": "بخاطر", "correct_phrase": "به‌خاطر", "explanation": "به جای «بخاطر»، «به‌خاطر» با کسرهٔ «به» نوشته می‌شود.", "text_domain": "academic", "language": "Persian" }, { "incorrect_text": "براحتی می‌توان این مفاهیم را درک کرد.", "correct_text": "به‌راحتی می‌توان این مفاهیم را درک کرد.", "error_category": "اشکالات املایی و واژگانی", "error_subcategory": "غلط املایی متداول", "incorrect_phrase": "براحتی", "correct_phrase": "به‌راحتی", "explanation": "به جای «براحتی»، «به‌راحتی» با کسرهٔ «به» نوشته می‌شود.", "text_domain": "academic", "language": "Persian" }, { "incorrect_text": "بکار بردن اصطلاحات تخصصی در مقاله الزامی است.", "correct_text": "به‌کار بردن اصطلاحات تخصصی در مقاله الزامی است.", "error_category": "اشکالات املایی و واژگانی", "error_subcategory": "غلط املایی متداول", "incorrect_phrase": "بکار بردن", "correct_phrase": "به‌کار بردن", "explanation": "به جای «بکار بردن»، «به‌کار بردن» با کسرهٔ «به» نوشته می‌شود.", "text_domain": "academic", "language": "Persian" }, { "incorrect_text": "بدست آوردن نتایج مطلوب نیازمند زمان است.", "correct_text": "به‌دست آوردن نتایج مطلوب نیازمند زمان است.", "error_category": "اشکالات املایی و واژگانی", "error_subcategory": "غلط املایی متداول", "incorrect_phrase": "بدست آوردن", "correct_phrase": "به‌دست آوردن", "explanation": "به جای «بدست آوردن»، «به‌دست آوردن» با کسرهٔ «به» نوشته می‌شود.", "text_domain": "academic", "language": "Persian" }, { "incorrect_text": "بسر بردن وقت در کتابخانه برای دانشجویان مفید است.", "correct_text": "به‌سر بردن وقت در کتابخانه برای دانشجویان مفید است.", "error_category": "اشکالات املایی و واژگانی", "error_subcategory": "غلط املایی متداول", "incorrect_phrase": "بسر بردن", "correct_phrase": "به‌سر بردن", "explanation": "به جای «بسر بردن»، «به‌سر بردن» با کسرهٔ «به» نوشته می‌شود.", "text_domain": "academic", "language": "Persian" }, { "incorrect_text": "پیشک تردیدی وجود ندارد که این نظریه صحیح است.", "correct_text": "بی‌شک تردیدی وجود ندارد که این نظریه صحیح است.", "error_category": "اشکالات املایی و واژگانی", "error_subcategory": "غلط املایی متداول", "incorrect_phrase": "پیشک", "correct_phrase": "بی‌شک", "explanation": "به جای «پیشک»، «بی‌شک» با «ی» و «شک» نوشته می‌شود.", "text_domain": "academic", "language": "Persian" }, { "incorrect_text": "بیگمان این پژوهش ارزشمند است.", "correct_text": "بی‌گمان این پژوهش ارزشمند است.", "error_category": "اشکالات املایی و واژگانی", "error_subcategory": "غلط املایی متداول", "incorrect_phrase": "بیگمان", "correct_phrase": "بی‌گمان", "explanation": "به جای «بیگمان»، «بی‌گمان» با «ی» و «گمان» نوشته می‌شود.", "text_domain": "academic", "language": "Persian" }, { "incorrect_text": "بیخردی در رفتار با دانشجویان جایز نیست.", "correct_text": "بی‌خردی در رفتار با دانشجویان جایز نیست.", "error_category": "اشکالات املایی و واژگانی", "error_subcategory": "غلط املایی متداول", "incorrect_phrase": "بیخردی", "correct_phrase": "بی‌خردی", "explanation": "به جای «بیخردی»، «بی‌خردی» با «ی» و «خردی» نوشته می‌شود.", "text_domain": "academic", "language": "Persian" }
+  {
+    "incorrect_text": "پس از زلزله، ساختمان‌ها نیافتد.",
+    "correct_text": "پس از زلزله، ساختمان‌ها نیفتادند.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "مغایرت با رسم‌الخط معیار",
+    "incorrect_phrase": "نیافتد",
+    "correct_phrase": "نیفتادند",
+    "explanation": "گذشتهٔ سادهٔ فعل «افتادن»، «نیفتاد» است، نه «نیافتد». «نیافتد» آیندهٔ فعل «یافتن» است.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "او همواره حقیقت را از ذهن مردم میافکند.",
+    "correct_text": "او همواره حقیقت را از ذهن مردم میفکند.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "غلط املایی متداول",
+    "incorrect_phrase": "میافکند",
+    "correct_phrase": "میفکند",
+    "explanation": "در صورت مجزای فعل (می‌فکند)، حرف «ی» اضافه است. صورت صحیح «می‌فکند» است.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "با壁طلagh برخی از مشکلات حل نمی‌شود.",
+    "correct_text": "با壁طلagh برخی از مشکلات حل نمی‌شود.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "غلط املایی متداول",
+    "incorrect_phrase": "با壁طلagh",
+    "correct_phrase": "به壁طلagh",
+    "explanation": "حرف اضافهٔ مکرر نادرست است. صورت صحیح «به壁طلagh» است.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "دانشجویان جابجا شدند.",
+    "correct_text": "دانشجویان جابه‌جا شدند.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "غلط املایی متداول",
+    "incorrect_phrase": "جابجا",
+    "correct_phrase": "جابه‌جا",
+    "explanation": "کسرهٔ «به» نباید حذف شود. صورت صحیح «جابه‌جا» است.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "دو کشور روبروی یکدیگر قرار گرفتند.",
+    "correct_text": "دو کشور رو به‌روی یکدیگر قرار گرفتند.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "غلط املایی متداول",
+    "incorrect_phrase": "روبروی",
+    "correct_phrase": "رو به‌روی",
+    "explanation": "ពួក「رو به‌رو» دو کلمهٔ جداگانه است. صورت صحیح «رو به‌روی» است.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "آن دو سرپسر صحبت کردند.",
+    "correct_text": "آن دو سر به‌سر صحبت کردند.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "غلط املایی متداول",
+    "incorrect_phrase": "سرپسر",
+    "correct_phrase": "سر به‌سر",
+    "explanation": "عبارت «سر به‌سر» سه کلمه است. صورت صحیح «سر به‌سر» است.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "سیستم خود بخود خاموش شد.",
+    "correct_text": "سیستم خودبه‌خود خاموش شد.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "غلط املایی متداول",
+    "incorrect_phrase": "خود بخود",
+    "correct_phrase": "خودبه‌خود",
+    "explanation": "کسرهٔ «به» نباید حذف شود. صورت صحیح «خودبه‌خود» است.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "خانه‌ها بهتنهایی ساخته نشدند.",
+    "correct_text": "خانه‌ها به‌تن‌هایی ساخته نشدند.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "غلط املایی متداول",
+    "incorrect_phrase": "بتنهايي",
+    "correct_phrase": "به‌تن‌هایی",
+    "explanation": "به جای «بتنهايي»، «به‌تن‌هایی» با کسرهٔ «به» نوشته می‌شود.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "بویژه در زمینهٔ علوم انسانی، اهمیت زیادی دارد.",
+    "correct_text": "به‌ویژه در زمینهٔ علوم انسانی، اهمیت زیادی دارد.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "غلط املایی متداول",
+    "incorrect_phrase": "بویژه",
+    "correct_phrase": "به‌ویژه",
+    "explanation": "به جای «بویژه»، «به‌ویژه» با کسرهٔ «به» نوشته می‌شود.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "بخصوص در مقالات بین‌رشته‌ای مطرح می‌شود.",
+    "correct_text": "به‌خصوص در مقالات بین‌رشته‌ای مطرح می‌شود.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "غلط املایی متداول",
+    "incorrect_phrase": "بخصوص",
+    "correct_phrase": "به‌خصوص",
+    "explanation": "به جای «بخصوص»، «به‌خصوص» با کسرهٔ «به» نوشته می‌شود.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "بدلیل فقدان اطلاعات کافی، نتیجه‌گیری دشوار است.",
+    "correct_text": "به‌دلیل فقدان اطلاعات کافی، نتیجه‌گیری دشوار است.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "غلط املایی متداول",
+    "incorrect_phrase": "بدلیل",
+    "correct_phrase": "به‌دلیل",
+    "explanation": "به جای «بدلیل»، «به‌دلیل» با کسرهٔ «به» نوشته می‌شود.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "بعلت تغییرات آب‌وهوایی، محصولات کشاورزی آسیب دیدند.",
+    "correct_text": "به‌علت تغییرات آب‌وهوایی، محصولات کشاورزی آسیب دیدند.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "غلط املایی متداول",
+    "incorrect_phrase": "بعلت",
+    "correct_phrase": "به‌علت",
+    "explanation": "به جای «بعلت»، «به‌علت» با کسرهٔ «به» نوشته می‌شود.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "بصورت رسمی اعلام شد که پروژه آغاز می‌شود.",
+    "correct_text": "به‌صورت رسمی اعلام شد که پروژه آغاز می‌شود.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "غلط املایی متداول",
+    "incorrect_phrase": "بصورت",
+    "correct_phrase": "به‌صورت",
+    "explanation": "به جای «بصورت»، «به‌صورت» با کسرهٔ «به» نوشته می‌شود.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "این نظریه بوچود یک انقلاب فکری محسوب می‌شود.",
+    "correct_text": "این نظریه به‌وجود یک انقلاب فکری محسوب می‌شود.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "غلط املایی متداول",
+    "incorrect_phrase": "بوچود",
+    "correct_phrase": "به‌وجود",
+    "explanation": "به جای «بوچود»، «به‌وجود» با کسرهٔ «به» و «و» نوشته می‌شود.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "بسرعت فرآیند تحقیق را انجام دادند.",
+    "correct_text": "به‌سرعت فرآیند تحقیق را انجام دادند.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "غلط املایی متداول",
+    "incorrect_phrase": "بسرعت",
+    "correct_phrase": "به‌سرعت",
+    "explanation": "به جای «بسرعت»، «به‌سرعت» با کسرهٔ «به» نوشته می‌شود.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "بطور کلی، یافته‌ها حاکی از پیشرفت است.",
+    "correct_text": "به‌طور کلی، یافته‌ها حاکی از پیشرفت است.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "غلط املایی متداول",
+    "incorrect_phrase": "بطور",
+    "correct_phrase": "به‌طور",
+    "explanation": "به جای «بطور»، «به‌طور» با کسرهٔ «به» نوشته می‌شود.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "بخاطر محدودیت‌های مالی، پروژه به تعویق افتاد.",
+    "correct_text": "به‌خاطر محدودیت‌های مالی، پروژه به تعویق افتاد.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "غلط املایی متداول",
+    "incorrect_phrase": "بخاطر",
+    "correct_phrase": "به‌خاطر",
+    "explanation": "به جای «بخاطر»، «به‌خاطر» با کسرهٔ «به» نوشته می‌شود.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "براحتی می‌توان این مفاهیم را درک کرد.",
+    "correct_text": "به‌راحتی می‌توان این مفاهیم را درک کرد.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "غلط املایی متداول",
+    "incorrect_phrase": "براحتی",
+    "correct_phrase": "به‌راحتی",
+    "explanation": "به جای «براحتی»، «به‌راحتی» با کسرهٔ «به» نوشته می‌شود.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "بکار بردن اصطلاحات تخصصی در مقاله الزامی است.",
+    "correct_text": "به‌کار بردن اصطلاحات تخصصی در مقاله الزامی است.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "غلط املایی متداول",
+    "incorrect_phrase": "بکار بردن",
+    "correct_phrase": "به‌کار بردن",
+    "explanation": "به جای «بکار بردن»، «به‌کار بردن» با کسرهٔ «به» نوشته می‌شود.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "بدست آوردن نتایج مطلوب نیازمند زمان است.",
+    "correct_text": "به‌دست آوردن نتایج مطلوب نیازمند زمان است.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "غلط املایی متداول",
+    "incorrect_phrase": "بدست آوردن",
+    "correct_phrase": "به‌دست آوردن",
+    "explanation": "به جای «بدست آوردن»، «به‌دست آوردن» با کسرهٔ «به» نوشته می‌شود.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "بسر بردن وقت در کتابخانه برای دانشجویان مفید است.",
+    "correct_text": "به‌سر بردن وقت در کتابخانه برای دانشجویان مفید است.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "غلط املایی متداول",
+    "incorrect_phrase": "بسر بردن",
+    "correct_phrase": "به‌سر بردن",
+    "explanation": "به جای «بسر بردن»، «به‌سر بردن» با کسرهٔ «به» نوشته می‌شود.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "پیشک تردیدی وجود ندارد که این نظریه صحیح است.",
+    "correct_text": "بی‌شک تردیدی وجود ندارد که این نظریه صحیح است.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "غلط املایی متداول",
+    "incorrect_phrase": "پیشک",
+    "correct_phrase": "بی‌شک",
+    "explanation": "به جای «پیشک»، «بی‌شک» با «ی» و «شک» نوشته می‌شود.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "بیگمان این پژوهش ارزشمند است.",
+    "correct_text": "بی‌گمان این پژوهش ارزشمند است.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "غلط املایی متداول",
+    "incorrect_phrase": "بیگمان",
+    "correct_phrase": "بی‌گمان",
+    "explanation": "به جای «بیگمان»، «بی‌گمان» با «ی» و «گمان» نوشته می‌شود.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "بیخردی در رفتار با دانشجویان جایز نیست.",
+    "correct_text": "بی‌خردی در رفتار با دانشجویان جایز نیست.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "غلط املایی متداول",
+    "incorrect_phrase": "بیخردی",
+    "correct_phrase": "بی‌خردی",
+    "explanation": "به جای «بیخردی»، «بی‌خردی» با «ی» و «خردی» نوشته می‌شود.",
+    "text_domain": "academic",
+    "language": "Persian"
+  }
 ]
