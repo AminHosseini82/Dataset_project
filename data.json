@@ -7040,11 +7040,11 @@
     "language": "Persian"
   },
   {
-    "incorrect_text": "بدست آوردن نتایج مطلوب نیازمند زمان است.",
+    "incorrect_text": "بدست اوردن نتایج مطلوب نیازمند زمان است.",
     "correct_text": "به‌دست آوردن نتایج مطلوب نیازمند زمان است.",
     "error_category": "اشکالات املایی و واژگانی",
     "error_subcategory": "غلط املایی متداول",
-    "incorrect_phrase": "بدست آوردن",
+    "incorrect_phrase": "بدست اوردن",
     "correct_phrase": "به‌دست آوردن",
     "explanation": "به جای «بدست آوردن»، «به‌دست آوردن» با کسرهٔ «به» نوشته می‌شود.",
     "text_domain": "academic",
