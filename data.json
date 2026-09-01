@@ -10624,5 +10624,203 @@
     "explanation": "واژهٔ «منشأ» با همزهٔ پایانی نوشته می‌شود.",
     "text_domain": "academic",
     "language": "Persian"
+  },
+  {
+    "incorrect_text": "در یادداشت پایانی مقاله، نویسنده سپاسگذار راهنمایی‌های داوران شده است.",
+    "correct_text": "در یادداشت پایانی مقاله، نویسنده سپاس‌گذار راهنمایی‌های داوران شده است.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "مغایرت با رسم‌الخط معیار",
+    "incorrect_phrase": "سپاسگذار",
+    "correct_phrase": "سپاس‌گذار",
+    "explanation": "مرکب «سپاس‌گذار» با نیم‌فاصله نوشته می‌شود، نه چسبیده.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "سؤال اصلی پژوهش در چکیدهٔ مقاله به‌روشنی مطرح شده است.",
+    "correct_text": "سوال اصلی پژوهش در چکیدهٔ مقاله به‌روشنی مطرح شده است.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "خطای کرسی همزه",
+    "incorrect_phrase": "سؤال",
+    "correct_phrase": "سوال",
+    "explanation": "صورت‌های معیار «سوال» و «سئوال» است؛ نشاندن همزه بر کرسی «و» نادرست است.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "در متن مورد بررسی، راوی شکرگذار نعمت‌های زندگی خود معرفی می‌شود.",
+    "correct_text": "در متن مورد بررسی، راوی شکرگذار نعمت‌های زندگی خود معرفی می‌شود.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "مغایرت با رسم‌الخط معیار",
+    "incorrect_phrase": "شکرگذار",
+    "correct_phrase": "شکرگذار",
+    "explanation": "مرکب «شکرگذار» با نیم‌فاصله نوشته می‌شود، نه چسبیده.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "در این چارچوب نظری، هر شیی جایگاه مشخصی در شبکهٔ مفاهیم دارد.",
+    "correct_text": "در این چارچوب نظری، هر شئی جایگاه مشخصی در شبکهٔ مفاهیم دارد.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "خطای همزهٔ پایانی",
+    "incorrect_phrase": "شیی",
+    "correct_phrase": "شئی",
+    "explanation": "همزه جزو حروف اصلی واژه است؛ «شئی» و «شیء» درست‌اند و «شیی» نادرست.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "نویسندگان علاقهمند به همکاری، مقالات خود را به دبیرخانهٔ نشریه ارسال کردند.",
+    "correct_text": "نویسندگان علاقه‌مند به همکاری، مقالات خود را به دبیرخانهٔ نشریه ارسال کردند.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "مغایرت با رسم‌الخط معیار",
+    "incorrect_phrase": "علاقهمند",
+    "correct_phrase": "علاقه‌مند",
+    "explanation": "واژهٔ پایان‌یافته به «ه» پیش از «مند» با نیم‌فاصله نوشته می‌شود: علاقه‌مند.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "در پایان‌نامهٔ مورد بررسی، بخش فروگذار به‌صورت جداگانه تنظیم شده است.",
+    "correct_text": "در پایان‌نامهٔ مورد بررسی، بخش فروگذار به‌صورت جداگانه تنظیم شده است.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "مغایرت با رسم‌الخط معیار",
+    "incorrect_phrase": "فروگذار",
+    "correct_phrase": "فروگذار",
+    "explanation": "مرکب «فروگذار» با نیم‌فاصله نوشته می‌شود، نه چسبیده.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "فن‌آوری اطلاعات نقش مهمی در پژوهش‌های امروزی علوم انسانی دارد.",
+    "correct_text": "فنّاوری اطلاعات نقش مهمی در پژوهش‌های امروزی علوم انسانی دارد.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "تشدیدگذاری نادرست یا غیرضروری",
+    "incorrect_phrase": "فن‌آوری",
+    "correct_phrase": "فنّاوری",
+    "explanation": "صورت درست «فنّاوری» با تشدید نون است؛ یعنی داشتن و به‌کاربردن فن، نه آوردن آن.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "مآخذ اصلی این پژوهش، دست‌نوشته‌های محفوظ در کتابخانهٔ ملی بود.",
+    "correct_text": "مأخذ اصلی این پژوهش، دست‌نوشته‌های محفوظ در کتابخانهٔ ملی بود.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "خطای همزهٔ میانی",
+    "incorrect_phrase": "مآخذ",
+    "correct_phrase": "مأخذ",
+    "explanation": "همزه بر کرسی «الف» نوشته می‌شود: مأخذ؛ الف ممدودهٔ جایگزین نادرست است.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "این روش تحلیل، مبدأ تحولات مهم بعدی در پژوهش‌های حوزه شد.",
+    "correct_text": "این روش تحلیل، مبداء تحولات مهم بعدی در پژوهش‌های حوزه شد.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "خطای کرسی همزه",
+    "incorrect_phrase": "مبدأ",
+    "correct_phrase": "مبداء",
+    "explanation": "همزهٔ پایانی پس از «الف» بی‌کرسی نوشته می‌شود: مبداء.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "در متن ادبی بررسی‌شده، واژهٔ مذاق به معنای طعم و ذوق به کار رفته است.",
+    "correct_text": "در متن ادبی بررسی‌شده، واژهٔ مزاق به معنای طعم و ذوق به کار رفته است.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "مغایرت با رسم‌الخط معیار",
+    "incorrect_phrase": "مذاق",
+    "correct_phrase": "مزاق",
+    "explanation": "صورت‌های معیار این واژه «مزاق» و «مذاغ» است؛ «مذاق» نادرست شمرده می‌شود.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "در متن تاریخی مورد بررسی، «مرئی» به معنای پانسمان امروزی به کار رفته است.",
+    "correct_text": "در متن تاریخی مورد بررسی، «مرهم» به معنای پانسمان امروزی به کار رفته است.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "کاربرد واژهٔ هم‌آوا یا متشابه با معنای نادرست",
+    "incorrect_phrase": "مرئی",
+    "correct_phrase": "مرهم",
+    "explanation": "«مرهم» به معنای پانسمان است؛ «مرئی» به معنای قابل‌مشاهده و در این معنا نادرست است.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "اثرهای مریی آلودگی بر پوشش گیاهی منطقه به‌طور دقیق سنجیده شد.",
+    "correct_text": "اثرهای مرئی آلودگی بر پوشش گیاهی منطقه به‌طور دقیق سنجیده شد.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "خطای کرسی همزه",
+    "incorrect_phrase": "مریی",
+    "correct_phrase": "مرئی",
+    "explanation": "همزه جزو حروف اصلی واژه است و نباید به «ی» تبدیل شود: مرئی.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "در بخش مزبور از مقاله، روش نمونه‌گیری پژوهش به‌تفصیل تشریح شده است.",
+    "correct_text": "در بخش مذبور از مقاله، روش نمونه‌گیری پژوهش به‌تفصیل تشریح شده است.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "غلط املایی متداول",
+    "incorrect_phrase": "مزبور",
+    "correct_phrase": "مذبور",
+    "explanation": "صورت درست «مذبور» با «ذ» است؛ «مزبور» با «ز» غلط املایی رایج است.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "یکی از مشگل‌ترین بخش‌های پژوهش، گردآوری داده‌های میدانی بود.",
+    "correct_text": "یکی از مشکل‌ترین بخش‌های پژوهش، گردآوری داده‌های میدانی بود.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "مغایرت با رسم‌الخط معیار",
+    "incorrect_phrase": "مشگل",
+    "correct_phrase": "مشکل",
+    "explanation": "این واژهٔ عربی با «ک» نوشته می‌شود و «گ» نمی‌پذیرد: مشکل.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "پژوهشگران مطمعن هستند که نتایج در تکرار آزمایش پایدار می‌ماند.",
+    "correct_text": "پژوهشگران مطمئن هستند که نتایج در تکرار آزمایش پایدار می‌ماند.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "خطای همزهٔ میانی",
+    "incorrect_phrase": "مطمعن",
+    "correct_phrase": "مطمئن",
+    "explanation": "همزهٔ میانی جزو حروف اصلی واژه است؛ «مطمعن» با «ع» نادرست است.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "یافته‌های این پژوهش، معتنابه و درخور توجه پژوهشگران حوزه است.",
+    "correct_text": "یافته‌های این پژوهش، متنابه و درخور توجه پژوهشگران حوزه است.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "کاربرد واژهٔ هم‌آوا یا متشابه با معنای نادرست",
+    "incorrect_phrase": "معتنابه",
+    "correct_phrase": "متنابه",
+    "explanation": "«متنابه» به معنای درخور اعتنا صورت درست است؛ «معتنابه» نادرست است.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "در متن مورد بررسی، شخصیت اصلی فردی مودب و محتاط توصیف شده است.",
+    "correct_text": "در متن مورد بررسی، شخصیت اصلی فردی مؤدب و محتاط توصیف شده است.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "خطای کرسی همزه",
+    "incorrect_phrase": "مودب",
+    "correct_phrase": "مؤدب",
+    "explanation": "همزه بر کرسی «و» نوشته می‌شود: مؤدب؛ حذف همزه نادرست است.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "بی‌توجهی به رسم‌الخط، منشأ بسیاری از خطاهای نگارشی متون علمی است.",
+    "correct_text": "بی‌توجهی به رسم‌الخط، منشاء بسیاری از خطاهای نگارشی متون علمی است.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "خطای کرسی همزه",
+    "incorrect_phrase": "منشأ",
+    "correct_phrase": "منشاء",
+    "explanation": "همزهٔ پایانی پس از «الف» بی‌کرسی نوشته می‌شود: منشاء.",
+    "text_domain": "academic",
+    "language": "Persian"
   }
 ]
