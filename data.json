@@ -6930,28 +6930,6 @@
     "language": "Persian"
   },
   {
-    "incorrect_text": "دانشجویان جابجا شدند.",
-    "correct_text": "دانشجویان جابه‌جا شدند.",
-    "error_category": "اشکالات املایی و واژگانی",
-    "error_subcategory": "غلط املایی متداول",
-    "incorrect_phrase": "جابجا",
-    "correct_phrase": "جابه‌جا",
-    "explanation": "کسرهٔ «به» نباید حذف شود. صورت صحیح «جابه‌جا» است.",
-    "text_domain": "academic",
-    "language": "Persian"
-  },
-  {
-    "incorrect_text": "دو کشور روبروی یکدیگر قرار گرفتند.",
-    "correct_text": "دو کشور رو به‌روی یکدیگر قرار گرفتند.",
-    "error_category": "اشکالات املایی و واژگانی",
-    "error_subcategory": "غلط املایی متداول",
-    "incorrect_phrase": "روبروی",
-    "correct_phrase": "رو به‌روی",
-    "explanation": "ពួក「رو به‌رو» دو کلمهٔ جداگانه است. صورت صحیح «رو به‌روی» است.",
-    "text_domain": "academic",
-    "language": "Persian"
-  },
-  {
     "incorrect_text": "آن دو سرپسر صحبت کردند.",
     "correct_text": "آن دو سر به‌سر صحبت کردند.",
     "error_category": "اشکالات املایی و واژگانی",
