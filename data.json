@@ -8052,39 +8052,6 @@
     "language": "Persian"
   },
   {
-    "incorrect_text": "پیمان برای تحلیل داده‌های کیفی در اختیار استاد قرار گرفت.",
-    "correct_text": "پی‌مان برای تحلیل داده‌های کیفی در اختیار استاد قرار گرفت.",
-    "error_category": "اشکالات املایی و واژگانی",
-    "error_subcategory": "مغایرت با رسم‌الخط معیار",
-    "incorrect_phrase": "پیمان",
-    "correct_phrase": "پی‌مان",
-    "explanation": "شناسهٔ «مان» پس از «ی» با نیم‌فاصله نوشته می‌شود.",
-    "text_domain": "academic",
-    "language": "Persian"
-  },
-  {
-    "incorrect_text": "پیتان دربارهٔ شیوهٔ انجام آزمایش ثبت شده است.",
-    "correct_text": "پی‌تان دربارهٔ شیوهٔ انجام آزمایش ثبت شده است.",
-    "error_category": "اشکالات املایی و واژگانی",
-    "error_subcategory": "مغایرت با رسم‌الخط معیار",
-    "incorrect_phrase": "پیتان",
-    "correct_phrase": "پی‌تان",
-    "explanation": "شناسهٔ «تان» پس از «ی» با نیم‌فاصله نوشته می‌شود.",
-    "text_domain": "academic",
-    "language": "Persian"
-  },
-  {
-    "incorrect_text": "پیشان در تبیین یافته‌های پژوهش به‌طور کامل ثبت شد.",
-    "correct_text": "پی‌شان در تبیین یافته‌های پژوهش به‌طور کامل ثبت شد.",
-    "error_category": "اشکالات املایی و واژگانی",
-    "error_subcategory": "مغایرت با رسم‌الخط معیار",
-    "incorrect_phrase": "پیشان",
-    "correct_phrase": "پی‌شان",
-    "explanation": "شناسهٔ «شان» پس از «ی» با نیم‌فاصله نوشته می‌شود.",
-    "text_domain": "academic",
-    "language": "Persian"
-  },
-  {
     "incorrect_text": "کشتیم در این فصل، نقش حمل‌ونقل دریایی را بررسی می‌کند.",
     "correct_text": "کشتی‌ام در این فصل، نقش حمل‌ونقل دریایی را بررسی می‌کند.",
     "error_category": "اشکالات املایی و واژگانی",
