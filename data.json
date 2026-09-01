@@ -6963,17 +6963,6 @@
     "language": "Persian"
   },
   {
-    "incorrect_text": "بصورت رسمی اعلام شد که پروژه آغاز می‌شود.",
-    "correct_text": "به‌صورت رسمی اعلام شد که پروژه آغاز می‌شود.",
-    "error_category": "اشکالات املایی و واژگانی",
-    "error_subcategory": "غلط املایی متداول",
-    "incorrect_phrase": "بصورت",
-    "correct_phrase": "به‌صورت",
-    "explanation": "به جای «بصورت»، «به‌صورت» با کسرهٔ «به» نوشته می‌شود.",
-    "text_domain": "academic",
-    "language": "Persian"
-  },
-  {
     "incorrect_text": "این نظریه بوچود یک انقلاب فکری محسوب می‌شود.",
     "correct_text": "این نظریه به‌وجود یک انقلاب فکری محسوب می‌شود.",
     "error_category": "اشکالات املایی و واژگانی",
