@@ -8041,28 +8041,6 @@
     "language": "Persian"
   },
   {
-    "incorrect_text": "پیم برای تدوین چارچوب نظری پژوهش ارائه شده است.",
-    "correct_text": "پی‌ام برای تدوین چارچوب نظری پژوهش ارائه شده است.",
-    "error_category": "اشکالات املایی و واژگانی",
-    "error_subcategory": "مغایرت با رسم‌الخط معیار",
-    "incorrect_phrase": "پیم",
-    "correct_phrase": "پی‌ام",
-    "explanation": "شناسهٔ «ام» پس از «ی» با نیم‌فاصله نوشته می‌شود.",
-    "text_domain": "academic",
-    "language": "Persian"
-  },
-  {
-    "incorrect_text": "پیت دربارهٔ روش تحلیل داده‌ها در گزارش ثبت شده است.",
-    "correct_text": "پی‌ات دربارهٔ روش تحلیل داده‌ها در گزارش ثبت شده است.",
-    "error_category": "اشکالات املایی و واژگانی",
-    "error_subcategory": "مغایرت با رسم‌الخط معیار",
-    "incorrect_phrase": "پیت",
-    "correct_phrase": "پی‌ات",
-    "explanation": "شناسهٔ «ات» پس از «ی» با نیم‌فاصله نوشته می‌شود.",
-    "text_domain": "academic",
-    "language": "Persian"
-  },
-  {
     "incorrect_text": "پیش دربارهٔ اعتبار ابزار پژوهش در پرونده ثبت شد.",
     "correct_text": "پی‌اش دربارهٔ اعتبار ابزار پژوهش در پرونده ثبت شد.",
     "error_category": "اشکالات املایی و واژگانی",
