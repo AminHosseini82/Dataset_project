@@ -6930,17 +6930,6 @@
     "language": "Persian"
   },
   {
-    "incorrect_text": "با壁طلagh برخی از مشکلات حل نمی‌شود.",
-    "correct_text": "با壁طلagh برخی از مشکلات حل نمی‌شود.",
-    "error_category": "اشکالات املایی و واژگانی",
-    "error_subcategory": "غلط املایی متداول",
-    "incorrect_phrase": "با壁طلagh",
-    "correct_phrase": "به壁طلagh",
-    "explanation": "حرف اضافهٔ مکرر نادرست است. صورت صحیح «به壁طلagh» است.",
-    "text_domain": "academic",
-    "language": "Persian"
-  },
-  {
     "incorrect_text": "دانشجویان جابجا شدند.",
     "correct_text": "دانشجویان جابه‌جا شدند.",
     "error_category": "اشکالات املایی و واژگانی",
