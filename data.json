@@ -6930,17 +6930,6 @@
     "language": "Persian"
   },
   {
-    "incorrect_text": "خانه‌ها بهتنهایی ساخته نشدند.",
-    "correct_text": "خانه‌ها به‌تن‌هایی ساخته نشدند.",
-    "error_category": "اشکالات املایی و واژگانی",
-    "error_subcategory": "غلط املایی متداول",
-    "incorrect_phrase": "بتنهايي",
-    "correct_phrase": "به‌تن‌هایی",
-    "explanation": "به جای «بتنهايي»، «به‌تن‌هایی» با کسرهٔ «به» نوشته می‌شود.",
-    "text_domain": "academic",
-    "language": "Persian"
-  },
-  {
     "incorrect_text": "بویژه در زمینهٔ علوم انسانی، اهمیت زیادی دارد.",
     "correct_text": "به‌ویژه در زمینهٔ علوم انسانی، اهمیت زیادی دارد.",
     "error_category": "اشکالات املایی و واژگانی",
