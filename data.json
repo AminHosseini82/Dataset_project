@@ -10593,17 +10593,6 @@
     "language": "Persian"
   },
   {
-    "incorrect_text": "این یافته از نظر علمی معتبه و قابل استناد است.",
-    "correct_text": "این یافته از نظر علمی مثابه و قابل استناد است.",
-    "error_category": "اشکالات املایی و واژگانی",
-    "error_subcategory": "کاربرد واژهٔ هم‌آوا یا متشابه با معنای نادرست",
-    "incorrect_phrase": "معتبه",
-    "correct_phrase": "مثابه",
-    "explanation": "«مثابه» به معنای «در حکم» است و با «ث» نوشته می‌شود.",
-    "text_domain": "academic",
-    "language": "Persian"
-  },
-  {
     "incorrect_text": "استاد معذب با دانشجویان برخوردی محترمانه داشت.",
     "correct_text": "استاد مؤدب با دانشجویان برخوردی محترمانه داشت.",
     "error_category": "اشکالات املایی و واژگانی",
