@@ -15092,17 +15092,6 @@
     "language": "Persian"
   },
   {
-    "incorrect_text": "هر شی مورد بررسی باید در گزارش نهایی کمیته ثبت شود.",
-    "correct_text": "هر شیء مورد بررسی باید در گزارش نهایی کمیته ثبت شود.",
-    "error_category": "اشکالات املایی و واژگانی",
-    "error_subcategory": "خطای همزهٔ پایانی",
-    "incorrect_phrase": "شی",
-    "correct_phrase": "شیء",
-    "explanation": "همزهٔ پایانی در واژهٔ «شیء» باید نوشته شود.",
-    "text_domain": "academic",
-    "language": "Persian"
-  },
-  {
     "incorrect_text": "با تامل در گزارش ارزیابی، ضعف‌های طرح برای مدیران آشکار شد.",
     "correct_text": "با تأمل در گزارش ارزیابی، ضعف‌های طرح برای مدیران آشکار شد.",
     "error_category": "اشکالات املایی و واژگانی",
