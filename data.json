@@ -11650,14 +11650,4 @@
 "text_domain": "academic",
 "language": "Persian"
 },
-{ "incorrect_text": "تردید دارم که آیا فیزیک می‌تواند به خوب در نوشته‌های مختصر و جذاب به کار آید؟",
-"correct_text": "تردید دارم که آیا فیزیک می‌تواند به‌خوبی در نوشته‌های مختصر و جذاب به کار آید؟",
-"error_category": "اشکالات املایی و واژگانی",
-"error_subcategory": "ساخت قید نامأنوس با «به + صفت»",
-"incorrect_phrase": "به خوب",
-"correct_phrase": "به‌خوبی",
-"explanation": "ساخت قید با «به + صفت» در فارسی معیار نامأنوس است. صورت درست در این بافت «به‌خوبی» است.",
-"text_domain": "academic",
-"language": "Persian"
-}
 ]
